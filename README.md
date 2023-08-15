@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```txt
+C++              9 mins          ██████████▓░░░░░░░░░░░░░░   42.10 %
+Objective-C      7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.28 %
+GitIgnore file   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+HTML             1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Go               0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AkaShark&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
