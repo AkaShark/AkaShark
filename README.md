@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
-C++              9 mins          ██████████▓░░░░░░░░░░░░░░   42.10 %
-Objective-C      7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-GitIgnore file   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-HTML             1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Go               0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+```all_time
+From: 08 August 2023 - To: 15 August 2023
+
+Total Time: 3 hrs 11 mins
+
+Objective-C      2 hrs 10 mins   >>>>>>>>>>>>-------------   46.36 %
+Other            1 hr 30 mins    >>>>>>>>-----------------   32.07 %
 ```
 
 <!--END_SECTION:waka-->
