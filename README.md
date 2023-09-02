@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Total Time: 31 hrs 40 mins
+Total Time: 29 hrs 18 mins
 
-Objective-C      25 hrs 5 mins   >>>>>>>>>>>>>>>>>>>------   77.53 %
-Kotlin           3 hrs 14 mins   >>>----------------------   10.00 %
-Swift            1 hr 15 mins    >------------------------   03.90 %
-Dart             55 mins         >------------------------   02.84 %
-Other            41 mins         >------------------------   02.11 %
+Objective-C      19 hrs 26 mins  >>>>>>>>>>>>>>>>---------   62.91 %
+Swift            3 hrs 37 mins   >>>----------------------   11.71 %
+Kotlin           2 hrs 51 mins   >>-----------------------   09.27 %
+Other            1 hr 35 mins    >------------------------   05.15 %
 ```
 
 <!--END_SECTION:waka-->
