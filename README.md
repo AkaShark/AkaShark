@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Total Time: 31 hrs 37 mins
+Total Time: 24 hrs 42 mins
 
-HTML           8 hrs 6 mins    >>>>>>-------------------   25.24 %
-CSS            6 hrs 54 mins   >>>>>--------------------   21.51 %
-Vue.js         6 hrs 49 mins   >>>>>--------------------   21.20 %
-JavaScript     5 hrs 12 mins   >>>>---------------------   16.20 %
-Swift          1 hr 42 mins    >------------------------   05.32 %
-Objective-C    52 mins         >------------------------   02.70 %
-TypeScript     50 mins         >------------------------   02.59 %
-Other          31 mins         -------------------------   01.65 %
+Vue.js         6 hrs 49 mins   >>>>>>>------------------   26.44 %
+HTML           6 hrs 41 mins   >>>>>>-------------------   25.93 %
+CSS            5 hrs 33 mins   >>>>>--------------------   21.59 %
+Swift          2 hrs 12 mins   >>-----------------------   08.57 %
+JavaScript     1 hr 28 mins    >------------------------   05.73 %
+Other          1 hr 4 mins     >------------------------   04.18 %
 ```
 
 <!--END_SECTION:waka-->
