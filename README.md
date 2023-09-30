@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-Total Time: 26 hrs 44 mins
+Total Time: 23 hrs 1 min
 
-Objective-C    20 hrs 19 mins  >>>>>>>>>>>>>>>>>--------   69.00 %
-Swift          3 hrs 17 mins   >>>----------------------   11.20 %
-Other          2 hrs 43 mins   >>-----------------------   09.24 %
+Objective-C    17 hrs 43 mins  >>>>>>>>>>>>>>>>>--------   69.11 %
+Other          2 hrs 38 mins   >>>----------------------   10.28 %
 ```
 
 <!--END_SECTION:waka-->
