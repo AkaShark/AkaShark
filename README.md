@@ -16,18 +16,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Total Time: 11 hrs 26 mins
+Total Time: 5 hrs 24 mins
 
-Objective-C      8 hrs 10 mins   >>>>>>>>>>>>>>>>>>-------   71.09 %
-Python           2 hrs 34 mins   >>>>>>-------------------   22.37 %
-YAML             18 mins         >------------------------   02.63 %
-Text             6 mins          -------------------------   00.90 %
-Dart             5 mins          -------------------------   00.79 %
-Java             5 mins          -------------------------   00.73 %
-Swift            5 mins          -------------------------   00.72 %
-Other            3 mins          -------------------------   00.55 %
+Objective-C      3 hrs 17 mins   >>>>>>>>>>>>>>>----------   60.11 %
+Dart             49 mins         >>>>---------------------   15.18 %
+Python           22 mins         >>-----------------------   06.90 %
+YAML             21 mins         >>-----------------------   06.52 %
+Markdown         11 mins         >------------------------   03.64 %
+Assembly         6 mins          -------------------------   01.96 %
+Text             6 mins          -------------------------   01.89 %
+JSON             3 mins          -------------------------   01.16 %
+Other            3 mins          -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
