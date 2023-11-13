@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
-Total Time: 22 hrs 59 mins
+Total Time: 21 hrs 49 mins
 
-Other            31 hrs 51 mins  >>>>>>>>>>>>>>>----------   58.08 %
+Other           34 hrs 10 mins  >>>>>>>>>>>>>>>----------   61.02 %
 ```
 
 <!--END_SECTION:waka-->
