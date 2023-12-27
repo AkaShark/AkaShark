@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 10 hrs 54 mins
+Total Time: 18 hrs 42 mins
 
-Objective-C   8 hrs 19 mins   >>>>>>>>>>>>>>>>>>-------   71.89 %
-YAML          1 hr 10 mins    >>>----------------------   10.12 %
-Other         41 mins         >------------------------   05.90 %
+Objective-C   14 hrs 51 mins  >>>>>>>>>>>>>>>>>>>------   76.15 %
+CocoaPods     1 hr 14 mins    >>-----------------------   06.36 %
+YAML          1 hr 10 mins    >>-----------------------   06.01 %
+Other         48 mins         >------------------------   04.15 %
 ```
 
 <!--END_SECTION:waka-->
