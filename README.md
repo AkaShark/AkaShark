@@ -11,8 +11,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mobile Platform 
 - 💬 Ask me about aka-collapse
 - 📫 How to reach me: 1548742234@qq.com
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AkaShark&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkaShark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+- 
