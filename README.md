@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about aka-collapse
 - 📫 How to reach me: 1548742234@qq.com
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AkaShark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaShark&layout=compact&theme=buefy&hide_border=true" /></a>
 
