@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 📚 I‘m a student about to graduate, will become a social animal (I don't know if this a Chinglish 😭)
 - 🔭 I’m currently working on iOS Mobile Dev
 - 🌱 I’m currently learning Swift/JS/TS/Flutter
 - 👯 I’m looking to collaborate on Mobile Platform 
